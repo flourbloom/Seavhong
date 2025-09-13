@@ -54,5 +54,5 @@ When I’m not coding, I enjoy sports like swimming, badminton, and running.
 
 ---
 
-*Last updated: [YYYY-MM-DD]*  
+*Last updated: [2025-09-13]*  
 
